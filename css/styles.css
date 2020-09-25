@@ -1,0 +1,104 @@
+            body {}
+            
+            #title {
+                background-color: #ff4c68;
+                margin-bottom: 5rem;
+            }
+            
+            .container-fluid {
+                padding: 3% 15%;
+            }
+            
+            h1 {
+                font-family: "Montserrat-Black";
+                font-size: 3rem;
+                line-height: 1.5;
+                padding: 30px 0px;
+                color: whitesmoke;
+            }
+            
+            .navbar-brand {
+                font-size: 2rem;
+                margin-left: -18px;
+                font-family: "Ubuntu";
+            }
+            
+            .navbar {
+                padding-bottom: 3rem;
+            }
+            
+            .nav-item {
+                font-size: 1.2em;
+            }
+            
+            .nav-link {
+                padding-left: 10px;
+                padding-right: 10px;
+            }
+            
+            .img-head {
+                margin-left: 50px;
+                margin-top: 40px;
+                width: 60%;
+                transform: rotate(25deg);
+            }
+            
+            .fea-col {
+                text-align: center;
+            }
+            
+            .features-h3 {
+                font-family: "Ubuntu";
+                margin: 15px;
+            }
+            
+            .fas {
+                font-size: 2.5rem;
+                color: #ff4c68;
+            }
+            
+            .fas:hover {
+                color: rgb(151, 46, 155);
+            }
+            
+            .fea-p {
+                font-family: "Montserrat-Black";
+            }
+            
+            .container {
+                margin-bottom: 5rem;
+            }
+            
+            #testimonials {
+                text-align: center;
+                background-color: #ff4c68;
+            }
+            
+            h2 {
+                font-family: "Montserrat-Bold";
+                line-height: 2;
+                font-size: 3rem;
+                color: white;
+            }
+            
+            .testi {
+                margin: 20px;
+                border-radius: 100%;
+                width: 15%;
+            }
+            
+            #press {
+                text-align: center;
+                background-color: #ff4c68;
+            }
+            
+            .press-logo {
+                margin: 20px 20px 50px;
+                width: 12%;
+                padding-bottom: 30px;
+                padding-top: 30px;
+            }
+            
+            .carousel-inner {
+                padding: 7% 15%;
+            }
