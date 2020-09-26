@@ -1,0 +1,185 @@
+            body {}
+            
+            #title {
+                background-color: #ff4c68;
+                padding-bottom: 5rem;
+            }
+            
+            .container-fluid {
+                padding: 3% 15%;
+            }
+            
+            h1 {
+                font-family: "Montserrat-Black";
+                font-size: 3rem;
+                line-height: 1.5;
+                padding: 30px 0px;
+                color: whitesmoke;
+            }
+            
+            .navbar-brand {
+                font-size: 2rem;
+                margin-left: -18px;
+                font-family: "Ubuntu";
+            }
+            
+            .navbar {
+                padding-bottom: 3rem;
+            }
+            
+            .nav-item {
+                font-size: 1.2em;
+            }
+            
+            .nav-link {
+                padding-left: 10px;
+                padding-right: 10px;
+            }
+            
+            .img-head {
+                margin-left: 50px;
+                margin-top: 40px;
+                width: 50%;
+                transform: rotate(25deg);
+                position: absolute;
+            }
+            
+            #features {
+                background-color: white;
+                position: relative;
+                padding: 80px;
+                z-index: 1;
+            }
+            
+            .fea-col {
+                text-align: center;
+            }
+            
+            .features-h3 {
+                font-family: "Ubuntu";
+                margin: 15px;
+            }
+            
+            .fas {
+                font-size: 2.5rem;
+                color: #ff4c68;
+            }
+            
+            .fas:hover {
+                color: #FFB6C1;
+            }
+            
+            .fea-p {
+                font-family: "Montserrat-Black";
+            }
+            
+            .container {
+                margin-bottom: 1rem;
+            }
+            
+            #testimonials {
+                text-align: center;
+                background-color: #ff4c68;
+                position: relative;
+            }
+            
+            .testimonial-text {
+                font-family: "Montserrat-Bold";
+                line-height: 2;
+                font-size: 3rem;
+                color: white;
+            }
+            
+            .testi {
+                margin: 20px;
+                border-radius: 100%;
+                width: 15%;
+            }
+            
+            #press {
+                text-align: center;
+                background-color: #ff4c68;
+            }
+            
+            .press-logo {
+                margin: 20px 20px 50px;
+                width: 12%;
+                padding-bottom: 30px;
+                padding-top: 30px;
+            }
+            
+            .carousel-inner {
+                padding: 7% 15%;
+            }
+            
+            #pricing {
+                padding: 100px;
+                text-align: center;
+            }
+            
+            .col-price {
+                padding: 3% 2%;
+            }
+            
+            .pri-head {
+                font-family: "Montserrat-Black";
+                font-size: 2rem;
+                line-height: 2rem;
+            }
+            
+            .pri-p {
+                font-family: "Montserrat";
+                line-height: 3rem;
+            }
+            
+            h3 {
+                font-family: "Montserrat-Bold";
+            }
+            
+            .btn {
+                font-family: "Ubuntu";
+            }
+            
+            .lower {
+                text-align: center;
+                background-color: #ff4c68;
+                padding: 80px;
+            }
+            
+            .lower-h3 {
+                font-family: "Montserrat-Black";
+                line-height: 3rem;
+                color: #fff;
+            }
+            
+            .aa {
+                margin: 10px;
+                margin-top: 30px;
+            }
+            
+            #footer {
+                text-align: center;
+            }
+            
+            .copy {
+                margin-top: 60px;
+                margin-bottom: 10px;
+            }
+            
+            .right {
+                margin-bottom: 10px;
+            }
+            
+            .faab {
+                margin: 3px;
+            }
+            
+            @media (max-width:1028px) {
+                .img-head {
+                    position: static;
+                    transform: rotate(0);
+                }
+                #title {
+                    text-align: center;
+                }
+            }
